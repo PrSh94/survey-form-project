@@ -18,6 +18,8 @@ This project is a simple survey form built using only HTML and CSS.
 
 4. **Submit Form**: Click the "Submit" button to submit your responses.
 
+## Hosted Link :- https://purple-johnna-9.tiiny.site/
+
 ## Additional Notes
 
 - This project is designed as a demonstration of building a basic survey form using HTML and CSS.
